@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<SXDial-config>
+<acc>18143467197@GDPF.XY</acc>
+<pwd>123</pwd>
+<host>192.168.1.1</host>
+<router_pwd>wsljf19951214</router_pwd>
+<auto_redial>true</auto_redial>
+</SXDial-config>
